@@ -41,7 +41,7 @@ Our Full-Stack Social Media Platform aims to provide a seamless and engaging soc
 ## Future Enhancements
 
 Continual improvements and enhancements are planned for the platform, including additional features such as direct messaging, content discovery algorithms, enhanced user profiles, and more interactive elements to elevate the social experience.
-
+_______________________________________________________________________________________________________________________________________________________________________________________
 
 ## Setting Up the Database
 
